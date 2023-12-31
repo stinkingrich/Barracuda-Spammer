@@ -4,3 +4,6 @@
 # Don't forget that the tokens have to be in tokens.txt, to change the words they are sending u will look into the code and change it yourself.
 # Edit it however you want i did not leave any credits if you wanna skid =]]]]]]]]]]]
 # Made 4 fun & enjoy!
+
+
+# ((SMALL NOTE: If you need it to spam 24/7 without any ratelimit at all u might need to use https://bot-hosting.net/))
